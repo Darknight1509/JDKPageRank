@@ -1,0 +1,20 @@
+
+方法参考  https://wenku.baidu.com/view/dd387d111ed9ad51f01df283.html  幂法计算部分
+
+原理 看    https://www.cnblogs.com/rubinorth/p/5799848.html
+
+
+数据来源：http://konect.uni-koblenz.de/networks/subelj_jdk  看说明
+
+
+JDK是java的一堆代码，是一堆类（class），每个类有个名字，不同的类可能有依赖关系
+
+
+类共同组成一个网络。网络情况看网页
+
+
+使用下载的文件的说明都在其中一个文件里，改后缀名为txt打开看
+
+
+python代码在JDKPageRank内
+
